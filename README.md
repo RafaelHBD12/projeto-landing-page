@@ -3,5 +3,5 @@ Este é o projeto de desenvolvimento do módulo base do curso de Tecnologia da D
 
 🚀 Tecnologias utilizadas HTML | CSS | Javascript
 
-acesse o projeto no link abaixo.
+acesse o projeto no link :
 https://projetorafael-lp.netlify.app/
